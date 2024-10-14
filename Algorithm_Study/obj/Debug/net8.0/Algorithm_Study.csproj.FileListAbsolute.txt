@@ -1,0 +1,15 @@
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.AssemblyInfoInputs.cache
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.AssemblyInfo.cs
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.csproj.CoreCompileInputs.cache
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.sourcelink.json
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\bin\Debug\net8.0\Algorithm_Study.exe
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\bin\Debug\net8.0\Algorithm_Study.deps.json
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\bin\Debug\net8.0\Algorithm_Study.runtimeconfig.json
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\bin\Debug\net8.0\Algorithm_Study.dll
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\bin\Debug\net8.0\Algorithm_Study.pdb
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.dll
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\refint\Algorithm_Study.dll
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.pdb
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\Algorithm_Study.genruntimeconfig.cache
+C:\Users\재헌PC\Desktop\ProgrammingStudy\Algorithm_Study\obj\Debug\net8.0\ref\Algorithm_Study.dll
